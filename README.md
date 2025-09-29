@@ -65,19 +65,11 @@ Os resultados obtidos incluem:
 - Insights e conclusões sobre os padrões encontrados
 - Recomendações para trabalhos futuros
 
-## 📄 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
-
 ## 👨‍💻 Autor
 
 **Vinícius José Leódido Correia**
 - GitHub: [@vinileodido](https://github.com/vinileodido)
 - LinkedIn: [@vinileodido](https://linkedin.com/in/vinileodido)
-
-## 📞 Contato
-
-Se você tiver alguma dúvida ou sugestão sobre este projeto, sinta-se à vontade para entrar em contato através das redes sociais ou abrir uma issue neste repositório.
 
 ---
 

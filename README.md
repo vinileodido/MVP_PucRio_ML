@@ -2,7 +2,7 @@
 
 ## 📋 Visão Geral
 
-Este repositório contém um projeto completo de machine learning desenvolvido em Google Colab para a disciplina de "Machine Learning & Analytics" da Puc Rio. O projeto demonstra um pipeline completo de ciência de dados, desde a exploração inicial até a implementação de algoritmos de aprendizado de máquina.
+Este repositório contém um projeto completo de machine learning desenvolvido em Google Colab para a disciplina de **Machine Learning & Analytics** da Puc Rio. O projeto demonstra um pipeline completo de ciência de dados, desde a exploração inicial até a implementação de algoritmos de aprendizado de máquina.
 
 ## 🎯 Objetivos
 
